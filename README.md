@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="128ed250-07e0-4148-932c-85d93bb7b60e" src="https://github.com/user-attachments/assets/e2f8259b-a45a-4d1f-b6ee-1262803d341a" />
+
 # Genshin Impact Visual Panel
 
 > An unofficial Genshin Impact-inspired interface concept.
